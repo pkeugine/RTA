@@ -1,3 +1,3 @@
 Need a way to organize.
 
-number[NickNamePascalCase].language
+number_NickNamePascalCase.language
