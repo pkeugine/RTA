@@ -18,6 +18,7 @@ int main(void) {
 */
 
 //Second method, brute force
+/*
 int main(void) {
     int sum = 0;
 
@@ -28,4 +29,23 @@ int main(void) {
     cout << sum << endl;
     
     return 0;
+}
+*/
+
+//Third method, a geometric/arithmetic approach
+int sum = 0;
+
+int SumDivisibleBy(int n, int p);
+void Solve();
+
+int main(void) {
+    Solve();
+    cout << sum << endl;
+    return 0;
+}
+int SumDivisibleBy(int n, int p) {
+    return n*(p/n)*((p/n)+1)/2;
+}
+void Solve() {
+    sum = SumDivisibleBy(3,999)+SumDivisibleBy(5,999)-SumDivisibleBy(15,999);
 }
