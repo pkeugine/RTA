@@ -1,4 +1,4 @@
-package v1
+package main
 
 // V1:
 // Take a number n, calculate all its factors,
