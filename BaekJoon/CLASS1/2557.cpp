@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(void) {
-    int t;
-    string s[t];
+    cout << "Hello World!\n";
     return 0;
 }
