@@ -60,15 +60,15 @@ include CMakeFiles/CLASS1.dir/flags.make
 CMakeFiles/CLASS1.dir/main.cpp.o: CMakeFiles/CLASS1.dir/flags.make
 CMakeFiles/CLASS1.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CLASS1.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLASS1.dir/main.cpp.o -c /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/main.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLASS1.dir/main.cpp.o -c /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/main.cpp
 
 CMakeFiles/CLASS1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLASS1.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/main.cpp > CMakeFiles/CLASS1.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/main.cpp > CMakeFiles/CLASS1.dir/main.cpp.i
 
 CMakeFiles/CLASS1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLASS1.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/main.cpp -o CMakeFiles/CLASS1.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/main.cpp -o CMakeFiles/CLASS1.dir/main.cpp.s
 
 # Object files for target CLASS1
 CLASS1_OBJECTS = \
