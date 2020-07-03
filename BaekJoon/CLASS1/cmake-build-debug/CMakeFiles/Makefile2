@@ -35,19 +35,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/pkeugine/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/pkbook/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/pkeugine/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
+RM = "/Users/pkbook/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS1
+CMAKE_SOURCE_DIR = /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/CLASS1.dir/clean
 CMakeFiles/CLASS1.dir/all:
 	$(MAKE) -f CMakeFiles/CLASS1.dir/build.make CMakeFiles/CLASS1.dir/depend
 	$(MAKE) -f CMakeFiles/CLASS1.dir/build.make CMakeFiles/CLASS1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CLASS1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CLASS1"
 .PHONY : CMakeFiles/CLASS1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CLASS1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CLASS1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS1/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CLASS1.dir/rule
 
 # Convenience name for target.
