@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pkeugine/Dropbox/Codes/RTA/CodeChef/July_Challenge_2020/main.cpp
+iostream
+-
+unordered_set
+-
+
