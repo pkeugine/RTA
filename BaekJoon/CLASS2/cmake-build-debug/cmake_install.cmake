@@ -1,4 +1,4 @@
-# Install script for directory: /Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS2
+# Install script for directory: /Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/pkeugine/Dropbox/Codes/RTA/BaekJoon/CLASS2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/pkbook/Dropbox/Codes/RTA/BaekJoon/CLASS2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
