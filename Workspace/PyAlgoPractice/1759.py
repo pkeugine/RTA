@@ -23,6 +23,7 @@ result = []
 string = []
 visited = []
 
+
 def combination(array, length, index):
 	if len(string) == length:
 		result.append(copy.deepcopy(string))
