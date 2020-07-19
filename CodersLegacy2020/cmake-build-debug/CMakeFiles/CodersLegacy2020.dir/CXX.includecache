@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pkeugine/Dropbox/Codes/RTA/CodersLegacy2020/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
