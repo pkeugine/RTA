@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pkbook/Dropbox/Codes/RTA/CodeForces/Macbook/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+

@@ -1,0 +1,3 @@
+/Users/pkbook/Dropbox/Codes/RTA/CodeForces/Macbook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pkbook/Dropbox/Codes/RTA/CodeForces/Macbook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pkbook/Dropbox/Codes/RTA/CodeForces/Macbook/cmake-build-debug/CMakeFiles/Macbook.dir
