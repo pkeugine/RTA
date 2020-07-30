@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/pkbook/Dropbox/Codes/RTA/CodeForces/Macbook/main.cpp
+/Users/pkeugine/Dropbox/Codes/RTA/CodeChef/Workspace17/main.cpp
 iostream
+-
+vector
+-
+algorithm
 -
 
