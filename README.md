@@ -1,2 +1,2 @@
-# RTA
-by pkeugine (Eugine Park)
+# Initial page
+
